@@ -23,7 +23,7 @@ The following **extensions** are implemented:
 Here's a walkthrough of implemented user stories:
 
 <video>
-    <source src="//imgur.com/a/du6uhyw"
+    <source src="//i.imgur.com/qaghwsn.mp4"
             type="video/mp4"
             </video>
 

@@ -22,6 +22,8 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/du6uhyw"><a href="//imgur.com/a/du6uhyw"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <img src='//imgur.com/XgRPBcj' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
